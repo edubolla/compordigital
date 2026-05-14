@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Environment & secrets
+.env
+.env.*
+*.local
+
+# Vercel
+.vercel
+
+# Dependencies (if any Node tooling is added later)
+node_modules/
+
+# PDFs — contêm conteúdo proprietário do curso
+*.pdf
